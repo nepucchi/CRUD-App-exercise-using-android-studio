@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621689941068",
+    "project_id": "simple-crud-app-cb2e1",
+    "storage_bucket": "simple-crud-app-cb2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621689941068:android:0bc4841612c89d594418e9",
+        "android_client_info": {
+          "package_name": "com.example.simplecrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621689941068-ij1h9dl6cgrabofu3ddca5tu3ted7nbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGUDUZkt7NyiKEw6x75kjtHXk1rrGeRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621689941068-ij1h9dl6cgrabofu3ddca5tu3ted7nbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
